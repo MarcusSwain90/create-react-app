@@ -6,3 +6,4 @@ Guess what?! This is my first React App. I worked on this with a cool developer 
 Difficulty: Easy
 
 Checkout more of my design work at www.callmekain.com!
+Thanks.
